@@ -1,0 +1,98 @@
+# Privacy Policy
+
+**Neuron - Local AI Chat**
+Last updated: February 23, 2026
+
+---
+
+## Overview
+
+Neuron is an on-device AI chat application. All processing, storage, and inference happen locally on your iPhone. This privacy policy explains how the app handles your data.
+
+---
+
+## Data Collection
+
+Neuron does not collect any personal data. Neuron does not collect any usage data. Neuron does not collect any analytics. Neuron does not use any third-party tracking tools or SDKs.
+
+---
+
+## Data Storage
+
+All data created within Neuron is stored locally on your device. This includes:
+
+- Chat conversations and messages
+- Memory entries (personal details you share with the AI during conversations)
+- Downloaded model files
+- Folder organization
+
+None of this data is transmitted to any external server, cloud service, or third party.
+
+---
+
+## Internet Usage
+
+Neuron requires an internet connection only for downloading AI models from Hugging Face. After a model is downloaded, the app functions entirely offline. No internet connection is needed for chat, memory, or any other feature.
+
+No user data is sent during model downloads. The download request contains only the model file URL.
+
+---
+
+## On-Device Inference
+
+All AI chat responses are generated locally on your device using the llama.cpp inference engine with Metal GPU acceleration. No prompts, messages, or conversation data are sent to any server. No cloud-based AI service is used.
+
+---
+
+## Memory Feature
+
+Neuron stores personal details you share during conversations (such as your name, interests, or preferences) as local memory entries on your device. These entries are used to provide more relevant responses in future conversations.
+
+Memory entries are stored entirely on your device. They are never transmitted externally. You can view and delete any memory entry at any time through the Settings tab in the app.
+
+---
+
+## Third-Party Services
+
+Neuron does not integrate with any third-party services for analytics, advertising, crash reporting, or data processing.
+
+The only external connection the app makes is to Hugging Face (huggingface.co) for downloading AI model files. No user data is included in these requests.
+
+---
+
+## Children's Privacy
+
+Neuron does not knowingly collect any data from children under the age of 13. Since the app does not collect any data from any user, no special provisions are required.
+
+---
+
+## Data Sharing
+
+Neuron does not share any data with third parties. There is no data to share. All information stays on your device.
+
+---
+
+## Data Deletion
+
+You can delete your data at any time within the app:
+
+- Delete individual chat conversations by swiping in the Chats tab
+- Delete individual memory entries in Settings > Memory
+- Clear all memory entries in Settings > Memory
+- Delete downloaded models in the Models tab or Settings > Storage
+- Uninstalling the app removes all data permanently from your device
+
+---
+
+## Changes to This Policy
+
+If this privacy policy is updated, the changes will be reflected on this page with an updated date. Continued use of the app after changes constitutes acceptance of the updated policy.
+
+---
+
+## Contact
+
+If you have questions about this privacy policy, you can reach out at:
+
+- GitHub: [github.com/Nagarjuna2997](https://github.com/Nagarjuna2997)
+- LinkedIn: [linkedin.com/in/nagarjuna-reddy-97836a193](https://linkedin.com/in/nagarjuna-reddy-97836a193)
