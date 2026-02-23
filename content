@@ -1,0 +1,3 @@
+For a v1.0 release, you can skip this field. Deep links require you to have Universal Links or a custom URL scheme configured in your app (like neuron://chat/new or https://neuron.app/open).
+Since Neuron doesn't have a website domain or deep link routing set up yet, just leave it blank. It's optional and won't affect your submission.
+You can always add it later when you set up a landing page or want to link directly into specific screens.
