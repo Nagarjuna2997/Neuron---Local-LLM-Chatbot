@@ -1,0 +1,29 @@
+Neuron: Private AI, Right on Your iPhone
+
+Meet Neuron, an on-device AI chat app built for people who want powerful language models without giving up privacy. Download open-source AI models directly in the app, load one on your iPhone, and start chatting instantly. No servers. No accounts. No tracking. No internet required after setup.
+
+With Neuron, everything happens locally on your device. Your conversations, memories, folders, and model files stay on your iPhone.
+
+Download Models. Chat Offline. Stay Private.
+
+Browse a curated catalog of open-weight language models from leading families like Llama, Phi, Qwen, Gemma, Mistral, and SmolLM. Each model includes clear details such as file size, parameter count, and quantization type, so you know exactly what you’re downloading.
+
+Before you commit, Neuron checks your device and shows a compatibility indicator, helping you choose the right model for your iPhone.
+
+Real-Time Local Chat
+
+Load a model and start a conversation. Responses stream in real time as the model generates them using local inference. Continue past chats anytime, organize conversations into folders, and keep your workflow simple.
+
+Memory That Stays With You
+
+Neuron can remember helpful details you share, such as your name, interests, work, or preferences. These memories are stored only on your device and used to make future conversations more relevant. You remain in control: view, manage, or delete memory entries whenever you want.
+
+Built for Privacy
+
+Neuron does not send your chats to external servers. It does not collect analytics, track you, or require an account. Your AI experience stays fully local.
+
+Powered by Local AI
+
+Neuron supports GGUF models and runs inference using llama.cpp with Metal GPU acceleration for efficient performance on iPhone. All app data is stored locally using SwiftData, and only one model is loaded into memory at a time for optimal resource use.
+
+Neuron gives you AI that belongs to you: private, offline, and fully on-device.
